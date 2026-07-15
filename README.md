@@ -1,17 +1,20 @@
 <div align="center">
 
 ```
-                              salam@github
-                              -------------
-      .-'''''-.            OS: ..................... Windows / Linux
-    .'         '.          Role: ................... AI/ML Undergrad
-   :             :         Origin: ................. Pakistan
-   :   ASCII     :         Education: .............. BS Computer Science
-   :   ART        :                                   Sukkur IBA University
-   :   PHOTO      :         Focus: .................. Artificial Intelligence
-   :   HERE       :                                   & Machine Learning
-    '.           .'         Status: ................. Learning • Building •
-      '-.......-'                                     Open to Internships
+        salam@github
+        -------------
+@@@@@%%%##%%%%%@@@@@@#    OS: ..................... Windows / Linux
+%%%%%%@@@@@@%%%*#@@@@@    Role: ................... AI/ML Undergrad
+%%%%@@@@@@@@@@@%##%@@@    Origin: ................. Pakistan
+%%@@@#+-:::::-*#@%#%@@    Education: .............. BS Computer Science
+%%@@%-:::...:--:*@#%@@                             Sukkur IBA University
+%%%@%=+*#+:-*#*-=@#@@@    Focus: .................. Artificial Intelligence
+%%%##-----:.-::.:*#@@@                              & Machine Learning
+%%%*-=:.:-====-::=@@@%    Status: ................. Learning • Building •
+%%%%*#+-+++++===*@@%%#                             Open to Internships
+%%%%%@%**+===+*+*@%%%%
+%%%%@@@**#######%@@@@@
+%%%@@@@@+=++*#@@@@@@@@
                             
                             ------------------------------------------------
                             Languages: .............. Python
